@@ -1,2 +1,3 @@
 console.log('Hello, world!');
-consoel.log(1111);
+const imgEl = `<img src="${require('./assets/figure.png')}" />`
+document.write(imgEl);
